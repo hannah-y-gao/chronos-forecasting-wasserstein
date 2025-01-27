@@ -65,11 +65,11 @@
 #   offset: -6
 #   prediction_length: 6
 #   num_rolls: 1
-- name: dominick
-  hf_repo: autogluon/chronos_datasets
-  offset: -8
-  prediction_length: 8
-  num_rolls: 1
+# - name: dominick
+#   hf_repo: autogluon/chronos_datasets
+#   offset: -8
+#   prediction_length: 8
+#   num_rolls: 1
 # - name: m5
 #   hf_repo: autogluon/chronos_datasets
 #   offset: -28
@@ -100,11 +100,11 @@
 #   offset: -12
 #   prediction_length: 12
 #   num_rolls: 1
-# - name: monash_cif_2016
-#   hf_repo: autogluon/chronos_datasets
-#   offset: -12
-#   prediction_length: 12
-#   num_rolls: 1
+- name: monash_cif_2016
+  hf_repo: autogluon/chronos_datasets
+  offset: -12
+  prediction_length: 12
+  num_rolls: 1
 # - name: monash_m1_yearly
 #   hf_repo: autogluon/chronos_datasets
 #   offset: -6
